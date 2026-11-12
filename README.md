@@ -1,6 +1,6 @@
 ## Linux--Bioinformatics-Learning
 
- this repository documents my self directed learning and practical development in Linux, Bash scripting, and Bioinformatics alongside my academic background in Biotechnology.
+ This repository documents my self directed learning and practical development in Linux, Bash scripting, and Bioinformatics alongside my academic background in Biotechnology.
 
  ## Current learning
 
