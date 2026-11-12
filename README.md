@@ -1,7 +1,6 @@
-## Linux--Bioinformatics-Learning
+## Linux-Bioinformatics-Learning
 
- This repository documents my self directed learning and practical development in Linux, Bash scripting, and Bioinformatics alongside my academic background in Biotechnology.
-
+ Developing practical Linux command-line and Bash scripting using Google Cloud Shell, with a focus on applications in Bioinformatics and genomic data analysis
  ## Current learning
 
 - Linux command line navigation
